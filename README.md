@@ -2,8 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/EnoughSmith/360cameratrial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/kkrl1" ></script>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
