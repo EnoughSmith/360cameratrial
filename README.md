@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/EnoughSmith/360cameratrial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/kkrl1" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/d3mz1" ></script>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
