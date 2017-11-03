@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/EnoughSmith/360cameratrial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/d3mz1" ></script> <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/qxqe0" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/qxqe0" ></script>
 
 ### Markdown
 
