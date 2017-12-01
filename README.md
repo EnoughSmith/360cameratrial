@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+![picture_title](picture filename?raw=true "Optional Title")
 - List
 
 1. Numbered
